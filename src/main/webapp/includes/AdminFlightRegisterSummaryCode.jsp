@@ -75,11 +75,11 @@ try {
       <td><% out.print(rs.getString(14)); %></td>
       <td><i class="fa-solid fa-indian-rupee-sign"></i> <% out.print(rs.getString(15)); %></td>
       <td><button type="submit" class="availableFlightBtn"><span>Delete</span></button></td>
-      <br/>
     </tr>
   </tbody>
   </table>
 </div>
+<br/><br/><br/><br/><br/><br/>
 </form>
 
 <%
